@@ -1,1 +1,1 @@
-docker run --name=rest-backend --network=basic-bridge -p 8090:8080 -d rest-backend
+docker run --name=rest-backend  -p 8090:8080 -ti rest-backend
