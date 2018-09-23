@@ -1,2 +1,2 @@
-docker run --name=angular-frontend --network=basic-bridge -p 8080:80 -d angular-frontend
+docker run --name=frontend -p 8080:8080 -d frontend
 
